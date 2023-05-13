@@ -17,7 +17,7 @@ Step 4 : Write the logic for the program using arithmetic operations.
 
 Step 5 : Display the operations done the input numbers in the terminal.
 
-## Program:
+# Program:
 ```
 Program developed by: SOMEASVAR.R
 Register No: 212221230103;
@@ -48,7 +48,7 @@ public class arithmetic_operator
     }
 }
 ```
-## Output:
+# Output:
 ![image](https://github.com/SOMEASVAR/Arithmetic-Operator/assets/93434149/f634459a-57e0-466c-aa63-42feb5c7304c)
-## Result :
+# Result :
   We have successfully created a Java program to display the arithmetic operations on numbers.
